@@ -6,4 +6,98 @@ title: Rodrigo Méndez Alvarado
 # Rodrigo Méndez Alvarado
 ### Junior Data Scientist | Python | SQL | Machine Learning
 
-Analizo datos para convertirlos en decisiones de negocio mediante análisis, modelado predictivo y visualización.
+Transformo datos en decisiones de negocio a través de análisis exploratorio, modelado predictivo y visualización.  
+Experiencia aplicando data science en contextos comerciales y de performance.
+
+About Me
+
+Científico de Datos Junior con experiencia previa en roles comerciales y análisis de negocio. He trabajado con datos para generar insights accionables, optimizar procesos y apoyar la toma de decisiones mediante análisis exploratorio, modelado predictivo y visualización. Me enfoco en construir análisis reproducibles, orientados a impacto y alineados a objetivos de negocio.
+
+Formación:
+
+TripleTen – Data Science Bootcamp
+
+Projects
+1. Customer Churn Analysis
+
+Business Problem: Identificar los factores que influyen en la cancelación de clientes y predecir la probabilidad de churn para priorizar acciones de retención.
+
+Dataset: Customer subscription data (Kaggle)
+
+Tools & Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Methodology:
+
+Data cleaning y EDA
+
+Feature engineering
+
+Modelos de clasificación (Logistic Regression, Random Forest)
+
+Evaluación con accuracy, precision, recall y ROC-AUC
+
+Results:
+
+Modelo con ROC-AUC de 0.82
+
+Identificación de variables clave asociadas a churn
+
+🔗 GitHub Repository
+
+2. Sales Forecasting Model
+
+Business Problem: Predecir ventas mensuales para mejorar la planeación comercial y reducir desviaciones de inventario.
+
+Dataset: Historical sales data
+
+Tools & Technologies: Python, Pandas, Statsmodels, Scikit-learn
+
+Methodology:
+
+Series de tiempo
+
+Feature engineering temporal
+
+Modelos ARIMA y regresión
+
+Results:
+
+Reducción del error (RMSE) en un 18% vs baseline
+
+🔗 GitHub Repository
+
+3. Tourism Performance Dashboard
+
+Business Problem: Monitorear KPIs de ventas y desempeño comercial en un entorno B2B de turismo.
+
+Tools & Technologies: Tableau Public, SQL
+
+Key Metrics:
+
+Revenue
+
+Conversion rate
+
+Average order value
+
+Results:
+
+Dashboard interactivo utilizado para análisis semanal
+
+🔗 Tableau Dashboard
+
+Skills
+
+Programming & Data: Python, SQL, R (básico)
+
+Libraries & Tools: Pandas, NumPy, Scikit-learn, Jupyter, Tableau
+
+Analytics: EDA, Machine Learning, Forecasting, Data Visualization
+
+Soft Skills: Pensamiento analítico, comunicación con stakeholders, enfoque a negocio
+
+Contact
+
+LinkedIn: linkedin.com/in/rodrigo-mendez-alvarado-dsj
+
+Email: rodrigo.mendez.profesional@gmail.com
