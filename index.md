@@ -25,7 +25,7 @@ Contexto
 
 Análisis exploratorio de un conjunto de datos de anuncios de vehículos usados con el objetivo de identificar patrones entre precio, kilometraje y características del vehículo.
 
-##Análisis realizado
+## Análisis realizado
 
 Limpieza y validación del dataset
 
@@ -35,7 +35,7 @@ Identificación de relaciones entre precio y kilometraje
 
 Visualización interactiva mediante Streamlit
 
-##Conclusiones principales
+## Conclusiones principales
 
 Existe una relación inversa entre el kilometraje y el precio del vehículo.
 
@@ -46,7 +46,7 @@ Se detectaron valores atípicos relevantes que pueden impactar el análisis.
 - Tools: Python, Pandas, Streamlit
 - Techniques: EDA, Data Cleaning, Interactive Visualization
 
-##Meterial visual
+## Meterial visual
 ![EDA Vehicles](images/project1-histogram.png)
 
 🔗 [View project on GitHub](https://github.com/phoadrixss25/Project-1)
@@ -59,7 +59,7 @@ Contexto
 
 Desarrollo de una aplicación web interactiva para analizar y comparar datos de vehículos por marca utilizando un dataset de vehículos en Estados Unidos.
 
-##Análisis realizado
+## Análisis realizado
 
 Exploración de datos por marca
 
@@ -67,7 +67,7 @@ Análisis comparativo de precios y kilometraje
 
 Visualización interactiva para facilitar la exploración de patrones
 
-##Conclusiones principales
+## Conclusiones principales
 
 Existen diferencias significativas de precios entre marcas.
 
@@ -78,7 +78,7 @@ La visualización interactiva acelera la identificación de patrones y outliers.
 - Tools: Python, Pandas, Streamlit, Plotly
 - Techniques: EDA, Data Visualization, Web App Development
 
-##Material visual
+## Material visual
 ![Web App Demo](images/project2-dashboard.png)
 
 🔗 [View project on GitHub](https://github.com/phoadrixss25/Project-2-web-app)
