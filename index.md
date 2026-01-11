@@ -17,7 +17,28 @@ Formación:
 
 TripleTen – Data Science Bootcamp
 
-Projects (agregar 2)
+## 📊 Projects
+
+### Exploratory Data Analysis – Used Vehicles
+
+**Description:** Exploratory data analysis of used vehicle listings to identify relationships between price, mileage and vehicle characteristics.
+
+- Tools: Python, Pandas, Streamlit
+- Techniques: EDA, Data Cleaning, Interactive Visualization
+
+🔗 [View project on GitHub](https://github.com/phoadrixss25/Project-1)
+
+---
+
+### Vehicle Brands EDA – Web Application
+
+**Description:** Interactive web application for exploratory analysis and comparison of vehicle brands using real-world data.
+
+- Tools: Python, Pandas, Streamlit, Plotly
+- Techniques: EDA, Data Visualization, Web App Development
+
+🔗 [View project on GitHub](https://github.com/phoadrixss25/Project-2-web-app)
+
 
 Soft Skills: Pensamiento analítico, comunicación con stakeholders, enfoque a negocio
 
